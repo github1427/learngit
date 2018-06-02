@@ -2,4 +2,4 @@ dev1 modify
 dev2 modify
 dev++++y
 dev1
-merge test
+merge test+++++
