@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 dev1 modify
-=======
 dev2 modify
->>>>>>> dev2
